@@ -53,6 +53,29 @@ donot chart alongside.
 ## Visualization Result
 
 The Visualzation Report is as follows
-> Compare the sales and orders using single chart
+> Compare the sales and orders using single chart and  which month got the highest sales and orders?
 ![Sales and Orders Using a Single chart](https://github.com/Jamaderibigbe/Vrinda-Store-s-2022-Annual-Sales-Report---Excel/blob/main/Sales%20vs%20orders.PNG)
-> 
+and we observeed that March Has the Highest sales and orders
+
+> who purchased more - men or women in 2022?
+![who purchased more - men or women in 2022](https://github.com/Jamaderibigbe/Vrinda-Store-s-2022-Annual-Sales-Report---Excel/blob/main/Gender.PNG)
+we see that women purchase more than men
+
+> what are different order status in 2022
+![what are different order status in 2022](https://github.com/Jamaderibigbe/Vrinda-Store-s-2022-Annual-Sales-Report---Excel/blob/main/order%20status.PNG)
+
+> List top 5 states contributing to the sales
+![List top 10 states contributing to the sales](https://github.com/Jamaderibigbe/Vrinda-Store-s-2022-Annual-Sales-Report---Excel/blob/main/Top%205%20states.PNG)
+
+> Relation between age and gender based on number of orders
+![Relation between age and gender based on number of orders](https://github.com/Jamaderibigbe/Vrinda-Store-s-2022-Annual-Sales-Report---Excel/blob/main/Age%20gruop%20n%20gender.PNG)
+We observed that adult women have the highest percentages
+
+> which channel is contributing to maximum sales?
+![which channel is contributing to maximum sales](https://github.com/Jamaderibigbe/Vrinda-Store-s-2022-Annual-Sales-Report---Excel/blob/main/channel.PNG)
+We see that Amazon, Flipkart and Myntra contributed to the maximum sales
+
+> We created the report
+![Report](https://github.com/Jamaderibigbe/Vrinda-Store-s-2022-Annual-Sales-Report---Excel/blob/main/Report%20pg.PNG)
+
+
