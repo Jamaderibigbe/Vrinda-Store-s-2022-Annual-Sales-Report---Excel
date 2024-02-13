@@ -54,4 +54,5 @@ donot chart alongside.
 
 The Visualzation Report is as follows
 > Compare the sales and orders using single chart
-![Sales and Orders Using a Single chart](
+![Sales and Orders Using a Single chart](https://github.com/Jamaderibigbe/Vrinda-Store-s-2022-Annual-Sales-Report---Excel/blob/main/Sales%20vs%20orders.PNG)
+> 
