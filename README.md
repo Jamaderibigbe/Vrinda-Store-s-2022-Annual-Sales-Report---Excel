@@ -15,4 +15,5 @@ Insight Generation: We extracted actionable insights from data analysis, empower
 The purpose of this project is to compile Vrinda Store's 2022 Annual Sales Report, aiming to glean informed customer insights essential for future expansion strategies.
 
 ## About Data
-The dataset comprises sales transactions encompasses 21 columns and over 30,000 rows of valuable data (Vrinda Store Data)[
+The dataset comprises sales transactions encompasses 21 columns and over 30,000 rows of valuable data (Vrinda Store Data)[https://github.com/Jamaderibigbe/Vrinda-Store-s-2022-Annual-Sales-Report---Excel/blob/main/Vrinda%20Store%20Data%20Analysis%20%20start.xlsx]
+
