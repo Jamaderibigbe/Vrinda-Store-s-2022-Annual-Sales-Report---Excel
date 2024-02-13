@@ -60,6 +60,7 @@ The Visualzation Report is as follows
 ![who purchased more - men or women in 2022](https://github.com/Jamaderibigbe/Vrinda-Store-s-2022-Annual-Sales-Report---Excel/blob/main/Gender.PNG)
 
 > what are different order status in 2022
+
 ![what are different order status in 2022](https://github.com/Jamaderibigbe/Vrinda-Store-s-2022-Annual-Sales-Report---Excel/blob/main/order%20status.PNG)
 
 > List top 5 states contributing to the sales
