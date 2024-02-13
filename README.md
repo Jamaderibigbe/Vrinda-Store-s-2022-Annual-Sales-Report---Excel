@@ -75,4 +75,14 @@ The Visualzation Report is as follows
 > We created the report
 ![Report](https://github.com/Jamaderibigbe/Vrinda-Store-s-2022-Annual-Sales-Report---Excel/blob/main/Report%20pg.PNG)
 
+## Insights:
 
+1. Women exhibit a higher likelihood of purchase compared to men (approximately 65%).
+2. The top three states contributing to sales are Maharashtra, Karnataka, and Uttar Pradesh (approximately 35%).
+3. The adult age group (30 - 49) accounts for the highest contribution to sales (approximately 50%)Amazon, Flipkart, and Myntra channels 
+contribute the most to sales (approximately 80%).
+4. Final Conclusion to Enhance Vrinda Store Sales:
+
+## To boost sales at Vrinda Store:
+Target women customers aged 30 to 49 residing in Maharashtra, Karnataka, and Uttar Pradesh.
+Utilize targeted ads, offers, and coupons available on Amazon, Flipkart, and Myntra channels.
